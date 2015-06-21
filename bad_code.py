@@ -1,5 +1,5 @@
 """
-very bad code
+Awsemode code
 """
-echo "BAHAAH!"
+echo "Youpiiii!"
 
